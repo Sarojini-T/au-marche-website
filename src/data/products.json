@@ -1,0 +1,526 @@
+[
+    {
+      "englishName": "Castor Oil",
+      "frenchName": "Huile de Palma Christi",
+      "kreyolName": "Lwil Maskreti",
+      "Category": "Food",
+      "subCategory": "Oil"
+    },
+    {
+      "englishName": "Sugar Cane Syrup",
+      "frenchName": "Sirop de Canne",
+      "kreyolName": "Siwo Kann",
+      "Category": "Food",
+      "subCategory": "Ingredient"
+    },
+    {
+      "englishName": "Haitian Black Mushroom",
+      "frenchName": "Djondjon",
+      "kreyolName": "Djondjon",
+      "Category": "Food",
+      "subCategory": "Ingredient"
+    },
+    {
+      "englishName": "Dried Baby Shrimp",
+      "frenchName": "Petite Crevette",
+      "kreyolName": "Tritri",
+      "Category": "Food",
+      "subCategory": "Ingredient"
+    },
+    {
+      "englishName": "Corn Flour",
+      "frenchName": "Farine de Mais",
+      "kreyolName": "Farin Mayi",
+      "Category": "Food",
+      "subCategory": "Ingredient"
+    },
+    {
+      "englishName": "Jute Leaves",
+      "frenchName": "Feuilles de Jute",
+      "kreyolName": "Lalo",
+      "Category": "Food",
+      "subCategory": "Leaves"
+    },
+    {
+      "englishName": "Spanish Limes",
+      "frenchName": "Quenepes",
+      "kreyolName": "Kenep",
+      "Category": "Food",
+      "subCategory": "Fruit"
+    },
+    {
+      "englishName": "Bulgur Wheat",
+      "frenchName": "Boulgour",
+      "kreyolName": "Ble",
+      "Category": "Food",
+      "subCategory": "Ingredient"
+    },
+    {
+      "englishName": "Millet",
+      "frenchName": "Petit Mil",
+      "kreyolName": "Pitimi",
+      "Category": "Food",
+      "subCategory": "Ingredient"
+    },
+    {
+      "englishName": "Haitian Cassava or Cassava Bread",
+      "frenchName": "Cassave",
+      "kreyolName": "Kassav",
+      "Category": "Food",
+      "subCategory": "Desserts"
+    },
+    {
+      "englishName": "Unrefined Brown Sugar",
+      "frenchName": "Sucre Brun",
+      "kreyolName": "Rapadou",
+      "Category": "Food",
+      "subCategory": "Ingredient"
+    },
+    {
+      "englishName": "Haitian Sweet Potato Pudding",
+      "frenchName": "Pain de Patate",
+      "kreyolName": "Pen Patat",
+      "Category": "Food",
+      "subCategory": "Desserts"
+    },
+    {
+      "englishName": "Soursop Leaves",
+      "frenchName": "Feuilles de Corossol",
+      "kreyolName": "Fey Kowosol",
+      "Category": "Food",
+      "subCategory": "Leaves"
+    },
+    {
+      "englishName": "Mango Leaves",
+      "frenchName": "Feuille de Mangue",
+      "kreyolName": "Fey Mango",
+      "Category": "Food",
+      "subCategory": "Leaves"
+    },
+    {
+      "englishName": "Cerasee",
+      "frenchName": "Cerasee",
+      "kreyolName": "Asosi",
+      "Category": "Food",
+      "subCategory": "Leaves"
+    },
+    {
+      "englishName": "Lime Leaves",
+      "frenchName": "Feuilles de Citron",
+      "kreyolName": "Fey Citron",
+      "Category": "Food",
+      "subCategory": "Leaves"
+    },
+    {
+      "englishName": "Orange Leaves",
+      "frenchName": "Feuille d’Orange",
+      "kreyolName": "Fey Zoranj",
+      "Category": "Food",
+      "subCategory": "Leaves"
+    },
+    {
+      "englishName": "Mint",
+      "frenchName": "Petit Baume",
+      "kreyolName": "Ti Bonm",
+      "Category": "Food",
+      "subCategory": "Ingredient"
+    },
+    {
+      "englishName": "Green Pigeon Pea",
+      "frenchName": "Pois D’Angole",
+      "kreyolName": "Pwa Kongo",
+      "Category": "Food",
+      "subCategory": "Ingredient"
+    },
+    {
+      "englishName": "Almond Leaves",
+      "frenchName": "Feuille d’Amande",
+      "kreyolName": "Fey Zanman",
+      "Category": "Food",
+      "subCategory": "Leaves"
+    },
+    {
+      "englishName": "Artemisia Annua",
+      "frenchName": "Semen Contra",
+      "kreyolName": "Fey Semen Kontra",
+      "Category": "Food",
+      "subCategory": "Leaves"
+    },
+    {
+      "englishName": "Haitian Chocolate",
+      "frenchName": "Chocolat d’Haiti",
+      "kreyolName": "Chokola",
+      "Category": "Food",
+      "subCategory": "Ingredients"
+    },
+    {
+      "englishName": "Haitian Vanilla Fudge",
+      "frenchName": "Douce Macos",
+      "kreyolName": "Dous Makos",
+      "Category": "Food",
+      "subCategory": "Dessert"
+    },
+    {
+      "englishName": "Haitian Coconut Candy",
+      "frenchName": "Tablette de Cocotier",
+      "kreyolName": "Tablet Kokoye",
+      "Category": "Food",
+      "subCategory": "Desserts"
+    },
+    {
+      "englishName": "Haitian Peanut Brittle",
+      "frenchName": "Tablette de Pistache",
+      "kreyolName": "Tablet Pistach",
+      "Category": "Food",
+      "subCategory": "Desserts"
+    },
+    {
+      "englishName": "Passion Fruit",
+      "frenchName": "Fruit de la Passion",
+      "kreyolName": "Grenadia",
+      "Category": "Food",
+      "subCategory": "Fruit"
+    },
+    {
+      "englishName": "Haitian Francis Mango",
+      "frenchName": "Mangue Francisque",
+      "kreyolName": "Mango Fransik",
+      "Category": "Food",
+      "subCategory": "Fruit"
+    },
+    {
+      "englishName": "Haitian Cremas",
+      "frenchName": "Cremasse",
+      "kreyolName": "Kremas",
+      "Category": "Food",
+      "subCategory": "Dessert"
+    },
+    {
+      "englishName": "Haitian Leather Sandals",
+      "frenchName": "Sandales en Cuir",
+      "kreyolName": "Sandal Kwi",
+      "Category": "Shoes"
+    },
+    {
+      "englishName": "Haitian Quadrille Dress",
+      "frenchName": "Karabela",
+      "kreyolName": "Karabela",
+      "Category": "Outifts"
+    },
+    {
+      "englishName": "Yam",
+      "frenchName": "Igname",
+      "kreyolName": "Yam",
+      "Category": "Food",
+      "subCategory": "Ingredients"
+    },
+    {
+      "englishName": "Okra",
+      "frenchName": "Gombo",
+      "kreyolName": "Kalalou",
+      "Category": "Food",
+      "subCategory": "Ingredients"
+    },
+    {
+      "englishName": "Herring",
+      "frenchName": "Hareng Saur",
+      "kreyolName": "Aranso",
+      "Category": "Food",
+      "subCategory": "Meat and Seafood"
+    },
+    {
+      "englishName": "Bouillon Cube",
+      "frenchName": "Cube de Bouillon",
+      "kreyolName": "Maggi",
+      "Category": "Food",
+      "subCategory": "Ingredients"
+    },
+    {
+      "englishName": "Haitian Cornmeal Porridge",
+      "frenchName": "Bouillie de semoule de mais",
+      "kreyolName": "Akasan",
+      "Category": "Food",
+      "subCategory": "Ingredients"
+    },
+    {
+      "englishName": "Dried Salted Codfish",
+      "frenchName": "Morue",
+      "kreyolName": "Mori",
+      "Category": "Food",
+      "subCategory": "Meat and Seafood"
+    },
+    {
+      "englishName": "Cashew Brittle",
+      "frenchName": "Tablette de Noix",
+      "kreyolName": "Tablet Nwa",
+      "Category": "Food",
+      "subCategory": "Dessert"
+    },
+    {
+      "englishName": "Haitian Chestnut",
+      "frenchName": "Chataigne",
+      "kreyolName": "Labapin",
+      "Category": "Food",
+      "subCategory": "Nuts"
+    },
+    {
+      "englishName": "Haitian Peanuts",
+      "frenchName": "Cacahuètes Haitienne",
+      "kreyolName": "Pistach",
+      "Category": "Food",
+      "subCategory": "Nuts"
+    },
+    {
+      "englishName": "Potato Flour",
+      "frenchName": "Farine de Patate",
+      "kreyolName": "Farin Pomdete",
+      "Category": "Food",
+      "subCategory": "Ingredients"
+    },
+    {
+      "englishName": "Haitian Peanut Butter",
+      "frenchName": "Beurre de Cacahuètes Haitienne",
+      "kreyolName": "Mamba",
+      "Category": "Food",
+      "subCategory": "Spreads"
+    },
+    {
+      "englishName": "Haitian Jam",
+      "frenchName": "Confiture Haïtienne",
+      "kreyolName": "Konfiti",
+      "Category": "Food",
+      "subCategory": "Spreads"
+    },
+    {
+      "englishName": "Haitian Hot Sauce",
+      "frenchName": "Sauce Piquee Haitienne",
+      "kreyolName": "Ti Malice",
+      "Category": "Food",
+      "subCategory": "Seasonings"
+    },
+    {
+      "englishName": "Haitian Ginger Cake",
+      "frenchName": "Bonbon Sirop",
+      "kreyolName": "Bonbon Siwo",
+      "Category": "Food",
+      "subCategory": "Dessert"
+    },
+    {
+      "englishName": "Haitian Starch Cookie",
+      "frenchName": "Bonbon D'Amidon",
+      "kreyolName": "Bonbon Amidon",
+      "Category": "Food",
+      "subCategory": "Dessert"
+    },
+    {
+      "englishName": "Haitian Cupcake",
+      "frenchName": "Petit Gateau Haitien",
+      "kreyolName": "Pomket",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Sapodilla",
+      "frenchName": "Sapotille",
+      "kreyolName": "Sapotille",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Sugarcane",
+      "frenchName": "Canne-a-Sucre",
+      "kreyolName": "Kann",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Haitian Coconut Cookie",
+      "frenchName": "Biscuit Haitien a La Noix de Coco",
+      "kreyolName": "Kokonet",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Haitian Coffee",
+      "frenchName": "Cafe",
+      "kreyolName": "Kafe",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Cassava Flour",
+      "frenchName": "Farine de Manioc",
+      "kreyolName": "Farin Manyok",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Cornbread",
+      "frenchName": "Pain de Mais",
+      "kreyolName": "Pen Mayi",
+      "Category": "Food"
+    },
+    {
+      "englishName": "White Yam",
+      "frenchName": "Igname Blanche",
+      "kreyolName": "Mazonbel",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Guava",
+      "frenchName": "Goyave",
+      "kreyolName": "Goyav",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Coconut",
+      "frenchName": "Noix de Coco",
+      "kreyolName": "Kokoye",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Conch",
+      "frenchName": "Conque",
+      "kreyolName": "Lambi",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Haitian Sesame Crunch",
+      "frenchName": "Tablette Roroli",
+      "kreyolName": "Tablet Wowoli",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Breadfruit",
+      "frenchName": "Fruit a Pain",
+      "kreyolName": "Lam Veritab",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Watercress",
+      "frenchName": "Cresson",
+      "kreyolName": "Kreson",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Haitian Honey",
+      "frenchName": "Sirop de Miel",
+      "kreyolName": "Siwo Miel",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Corn and Peanut Powder",
+      "frenchName": "Farine de Mais et d'Arachide ",
+      "kreyolName": "Chanm Chanm",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Rice Flour",
+      "frenchName": "Farine de Riz",
+      "kreyolName": "Farin Diri",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Haitian Banana Chips",
+      "frenchName": "Chips de Bananes Haitiennes",
+      "kreyolName": "Papita",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Lemon Balm",
+      "frenchName": "Melisse",
+      "kreyolName": "Melis",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Haitian Starch",
+      "frenchName": "Amidon",
+      "kreyolName": "Amidon",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Haitian Cacao Grease",
+      "frenchName": "Graisse de Cacao Haitienne",
+      "kreyolName": "Gres Cacao",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Crushed Corn",
+      "frenchName": "Mais Concasse",
+      "kreyolName": "Mayi Tchaka",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Haitian Konparet",
+      "frenchName": "Konparet d'haiti",
+      "kreyolName": "Konparet",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Chayote",
+      "frenchName": "Mirliton",
+      "kreyolName": "Militon",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Haitian Trumpet Tree Leaves",
+      "frenchName": "Feuilles d'Arbre trompette",
+      "kreyolName": "Fey Twompet",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Green Pigeon Pea Leaves",
+      "frenchName": "Feuilles de Pois d'Angole",
+      "kreyolName": "Fey Pwa Kongo",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Papaya Leaves",
+      "frenchName": "Feuilles de Papaye",
+      "kreyolName": "Fey Papaye",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Custard Apple",
+      "frenchName": "Pomme Cannelle",
+      "kreyolName": "Cachiman",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Cassava",
+      "frenchName": "Manioc",
+      "kreyolName": "Manyok",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Tamarind",
+      "frenchName": "Tamarin",
+      "kreyolName": "Tamaren",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Soursop",
+      "frenchName": "Corossol",
+      "kreyolName": "Kowosol",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Grapefruit",
+      "frenchName": "Chadeque",
+      "kreyolName": "Chadek",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Taro Root",
+      "frenchName": "Racine de Taro",
+      "kreyolName": "Malanga",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Plantain",
+      "frenchName": "Bannane",
+      "kreyolName": "Bannann",
+      "Category": "Food"
+    },
+    {
+      "englishName": "Scotch Bonnet Pepper",
+      "frenchName": "Piment",
+      "kreyolName": "Piman",
+      "Category": "Food"
+    }
+  ]
+  

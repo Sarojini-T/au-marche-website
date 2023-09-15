@@ -1,0 +1,173 @@
+.homepageContainer {
+  min-height: 150vh;
+  flex-direction: column;
+}
+
+.topHalf {
+  flex: 1;
+  display: flex;
+  height: 100vh;
+}
+
+.leftSide {
+  flex: 1;
+  background-size: cover; /* Use cover to resize the image and maintain aspect ratio */
+  background-position: center;
+  background-image: url("../img/homepageImg.jpeg"); 
+  height: 100vh;
+}
+
+.rightSide {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f5dc89;
+  height: 100vh;
+}
+
+#search-bar {
+  height: 20px;
+  width: 50vh;
+}
+
+.newSearchPosition #search-bar {
+  width: 50vh;
+  height: 20px;
+}
+
+.bottomLeft {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.aboutContent {
+  display: flex;
+}
+
+.aboutHeader {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  align-items: center;
+  padding: 80px;
+  position: relative;
+  background-color: #505814e9;
+  position: relative;
+}
+
+.leftPortion {
+  width: 60%; 
+  padding: 20px; 
+}
+
+.rightPortion {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.aboutImg{
+  object-fit: cover;
+  display: flex;
+  height: 100%;
+}
+
+.welcomeContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px; /* Adjust spacing between elements */
+}
+
+.welcomeMessage{
+  font-size: 65px;
+  font-family: 'Yeseva One', cursive;
+  color: #505814e9;
+  text-align: center;
+}
+
+.select{
+  color: #fff8e2;
+  font-family: 'Josefin Sans', sans-serif ;
+  padding-top: px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.aboutTitle{
+  font-family: 'Yeseva One', cursive;
+  color: #f5dc89;
+  text-align: center;
+  font-size: 50px;
+}
+
+.aboutDescription{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 35px;
+  line-height: 2;
+  text-align: center;
+  color: #505814e9;
+  padding-top: 40px;
+}
+
+.nullSelectedItem{
+  font-family: 'Josefin Sans', sans-serif ;
+  font-size: 30px;
+  color: #505814e9;
+  text-align: center;
+  padding-top: 8em;
+}
+@media (max-width: 168px) {
+  .homepageContainer {
+    flex-direction: column; /* Change to column layout on smaller screens */
+  }
+
+  .topHalf,
+  .leftSide,
+  .rightSide {
+    flex: 1; 
+  }
+
+  .leftSide {
+    background-size: contain; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    min-height: 0; 
+    max-width: 100%; 
+  }
+}
+
+.selectedContent{
+  display: flex;
+}
+
+.leftSection{
+  width: 60%; 
+  padding: 20px; 
+}
+
+.rightSection{
+  width: 50%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 7em;
+}
+.translation1{
+  font-family: 'Yeseva One', cursive ;
+  color:#836e35e9;
+  
+}
+.translation2{
+  font-family: 'Yeseva One', cursive;
+  color: #836e35e9;
+  text-align: center;
+}
+
+.translations{
+  text-align: center;
+  font-size: 15px;
+}

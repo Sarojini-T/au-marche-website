@@ -1,0 +1,75 @@
+.itemName{
+    font-family: 'Yeseva One', cursive;
+    color: #505814e9;
+    text-align: center;
+    font-size: 45px;
+    padding-top: 55px;
+    padding-bottom: 30px;
+}
+
+.englishTitle{
+    font-family: 'Yeseva One', cursive;
+    color: #836e35e9;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+.inPersonTitle{
+    padding-top: 70px;
+    font-family: 'Yeseva One', cursive;
+    font-weight: bold;
+    font-size: 35px;
+    color: #836e35e9;
+    padding-left: 50px;
+    
+}
+
+.inPersonInfo{
+    font-family: 'Josefin Sans', sans-serif ;
+    color: #505814e9;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+.address{
+    font-size: 20px;
+    padding-top: 4px;
+    color: #505814a1;
+}
+.onlineTitle{
+    font-family: 'Yeseva One', cursive;
+    font-weight: bold;
+    font-size: 35px;
+    color: #836e35e9;
+    padding-top: 40px;
+    padding-left: 50px;
+}
+
+.onlineInfo{
+    font-family: 'Josefin Sans', sans-serif ;
+    color: #505814e9;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+.URLName{
+    font-family: 'Josefin Sans', sans-serif ;
+    font-size: 20;
+    color: #505814a1;
+    padding-left: 45px;
+    padding-top: 15px;
+}
+
+.notFound{
+    font-family: 'Josefin Sans', sans-serif ;
+    font-size: 20;
+    color: #505814e9;
+    text-align: center;
+    padding-top: 8em;
+}
+.itemImg{
+    width: 500px;
+}

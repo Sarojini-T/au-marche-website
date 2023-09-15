@@ -1,0 +1,136 @@
+[
+  {
+    "type": "online",
+    "name": "Close to lakay",
+    "url": "https://closetolakay.com/",
+    "products": ["Cola Lacaye","Cola Couronne","Mamba","Pistach","Tablet Nwa","Maggi", "Dous Makos", "Prestige", "Tablet Pistach", "Lalo", "Chokola", "Djondjon", "Kremas", "Lwil Maskreti", "Ble", "Epis"]
+  },
+  {
+    "type": "online",
+    "name": "Mikamartonline",
+    "url": "https://mikamartonline.com/",
+    "products": ["Akasan", "Lalo", "Aranso", "Amidon", "Crakenas", "Criolito", "Asosi", "Fey Zoranj", "Chokola", "Kassav", "Labapin", "Pwa Kongo", "Pitimi", "Shella", "Tritri"]
+  },
+  {
+    "type": "online",
+    "name": "Yell-O-Glow",
+    "url": "https://yell-o-glow.com/",
+    "products": ["Guarina", "Knorr"]
+  },
+  {
+    "type": "online",
+    "name": "Marche Lacaille",
+    "url": "https://marchelacaille.com/product-category/grocery/",
+    "products": ["Farin Pomdete", "Cola Lakay", "Shella","Akasan","Ragman", "Sport Shake", "Djondjon", "Toro", "Cola Couronne", "Mamba", "Guarina"]
+  },
+  {
+    "type": "online",
+    "name": "Etsy",
+    "url": "https://www.etsy.com/search?q=haitian%20food&ref=search_bar",
+    "products": ["Konparet","Tablet Wowoli","Sapotille","Lalo","La Famosa", "Kremas", "Shella", "Lwil Maskreti", "Tritri", "Haitian Bread", "Chokola", "Chanm Chanm", "Piliz", "Epis", "Djondjon", "Bonbon Siwo", "Tablet Pistach", "Haitian Coffee", "Bonbon Amidon", "Konfiti", "Kassav", "Asosi", "Criolito", "Rapadou", "Fey Kowosol", "Fey Citron", "Fey Zanman", "Fey Semen Kontra", "Tablet Kokoye", "Sandal Kwi"]
+  },
+  {
+    "type": "online",
+    "name": "The Haitian Network",
+    "url": "https://www.thehaitiannetwork.com/#haitianproducts",
+    "products": ["Siwo Kann", "Lwil Maskreti", "Cafe", "Kremas","Chanm Chanm", "Pikliz", "Epis", "Criolito", "Chokola", "Cola Couronne", "Farin Manyok", "Farin Mayi", "Farin Pomdete", "Farin Diri", "Amidon", "Djondjon"]
+  },
+  {
+    "type": "online",
+    "name": "Lakay Goods",
+    "url": "https://lakaygoods.com/collections/all",
+    "products": ["Siwo Kann", "Djondjon","Asosi", "Lwil Maskreti"]
+  },
+  {
+    "type": "online",
+    "name": "Ancient Healing Teas",
+    "url": "https://www.ancienthealingteas.com/",
+    "products": ["Fey Kowosol"]
+  },
+  {
+    "type": "online",
+    "name": "Walmart Online Store",
+    "url": "https://www.walmart.com/",
+    "products": ["Fey Kowosol", "Fey Mango", "Fey Citron", "Fey Zanman"]
+  },
+  {
+    "type": "online",
+    "name": "Damesara",
+    "url": "https://damesara.ca/",
+    "products": ["Ti Bonm", "Maggi", "Prestige", "Pikliz", "Cola Couronne", "Asosi","Farin Pomdete", "Fey Zoranj"," Fey Kowosol", "Lalo", "Fey Twompet", "Fey Pwa Kongo", "Fey Papaye", "Couscous"]
+  },
+  {
+    "type": "online",
+    "name": "Bonbon Lakay",
+    "url": "https://bonbonlakay.com/",
+    "products": ["Bonbon Amidon", "Tablet Pistach", "Tablet Nwa", "Dous Makos", "Chokola"]
+  },
+  {
+    "type": "online",
+    "name": "Micheline Haitian Caribbean Store",
+    "url": "https://michlinehcs.com/",
+    "products": ["Dous Makos", "Djondjon", "Chokola", "Lwil Maskreti","Fey Zanman", "Fey Kowosol", "Fey Mango","Fey Twompet", "Pikliz", "Akasan", "Shella","Criolito", "Farin Pomdete", "Kassav", "Pistach", "Tritri", "Fey Zoranj"]
+  },
+  {
+    "type": "online",
+    "name": "Deli lakay",
+    "url": "https://delilakay.com/",
+    "products": ["Tablet Kokoye", "Alaska", "Aranso", "Ble", "Kremas", "Lwil Maskreti", "Bonbon Siwo", "Bongu", "Chichi", "Chokola", "Konfiti", "Maggi", "Lalo", "Mori", "Pitimi", "Toro", "Tritri"]
+  },
+  {
+    "type": "online",
+    "name": "Pardess Farms",
+    "url": "https://pardessfarms.com/",
+    "products": ["Kenep", "Grenadia", "Kowosol", "Tamarin", "Mango Fransik"]
+  },
+  {
+    "type": "online",
+    "name": "Lachipel",
+    "url": "https://lachipel.com/",
+    "products": ["Karabela"]
+  },
+  {
+    "type": "online",
+    "name": "KatieJodly",
+    "url": "https://www.katiejodly.com/",
+    "products": ["Karabela"]
+  },
+  {
+    "type": "online",
+    "name": "Miami Fruit",
+    "url": "https://miamifruit.org/",
+    "products": ["Sapotille", "Kowosol", "Cachiman", "Bannann", "Grenadia", "Kenep", "Guava", "Kann", "Kokoye"]
+  },
+  {
+    "type": "online",
+    "name": "Tropical Fruit Box",
+    "url": "https://tropicalfruitbox.com/",
+    "products": ["Kowosol", "Grenadia", "Kenep", "Guava", "Cachiman", "Lam Veritab", "Bannann", "Tamaren", "Militon", "Kokoye", "Malanga"]
+  },
+  {
+    "type": "online",
+    "name": "Key Largo Fisheries",
+    "url": "https://shop.keylargofisheries.com/",
+    "products": ["Lambi"]
+  },
+  {
+    "type": "online",
+    "name": "Eurys Market",
+    "url": "https://eurysmarket.com/",
+    "products": ["Tritri","Tablet Pistach","Tablet Nwa","Tablet Kokoye","Lwil Maskreti","Pwa Kongo","Mazonbel","Malanga","Malta H","Mamba","Maggi","Pitimi","Pistach","Lalo","Djondjon","Guarina","Gres Cacao","Farin Pomdete","Criolito","Konfiti","Fey Semen Kontra","Chichi","Bonbon Amidon","Bongu","Kassav","Aranso","Cola Couronne","Shella","Tablet Wowoli", "Chokola", "Asosi"]
+  },
+  {
+    "type": "online",
+    "name": "Vetivier Solutions",
+    "url": "https://www.vetiversolutions.org/",
+    "products": ["Siwo Miel"]
+  },
+  {
+    "type": "online",
+    "name": "Taste of Haiti Box",
+    "url": "https://tasteofhaitibox.com/",
+    "products": ["Mayi Tchaka","Lwil Maskreti","Akasan","Asosi","Kafe","Ti Bonm","Melis","Lalo","Mamba","Tritri","Kremas","Konfiti","Chanm Chanm","Chokola","Djondjon","Siwo Miel"]
+  }
+
+
+]

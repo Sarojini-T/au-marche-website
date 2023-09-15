@@ -1,0 +1,193 @@
+[
+  {
+    "type": "inPerson",
+    "name": "Piyay market",
+    "city": "Fall River",
+    "state": "MA",
+    "address": "1423 Pleasant St, Fall River, MA 02723",
+    "products": ["Epis", "Kassav", "Lalo", "Amidon"]
+  },
+  {
+    "type": "inPerson",
+    "name": "Liam’s market",
+    "city": "Waltham",
+    "state": "MA",
+    "address": "130 Prospect St, Waltham, MA 02453",
+    "products": ["Pwa Kongo", "Bongu", "Maggi", "Tabasco"]
+  },
+  {
+    "type": "inPerson",
+    "name": "Caribbean choice & varieties",
+    "city": "Mattapan",
+    "state": "MA",
+    "address": "1615 Blue Hill Ave, Mattapan, MA 02126",
+    "products": ["Bongu", "Kalalou", "Aranso", "Asosi", "Pwa Kongo", "Yam", "Maggi", "Nestle", "Mori"]
+  },
+  {
+    "type": "inPerson",
+    "name": "Dala’s Caribbean Variety Store",
+    "city": "Randolph",
+    "state": "MA",
+    "address": "324 N Main St, Randolph, MA 02368",
+    "products": ["Cola Couronne", "Lalo", "Akasan", "Bonbon Amidon", "Kassav"]
+  },
+  {
+    "type": "inPerson",
+    "name": "Tropical Foods (El Platanero)",
+    "city": "Roxbury",
+    "state": "MA",
+    "address": "450 Melnea Cass Blvd, Roxbury, MA 02119",
+    "products": ["Ti Malice"]
+  },
+  {
+    "type": "inPerson",
+    "name": "Stop and Shop",
+    "city": "",
+    "state": "",
+    "address": "",
+    "products": ["Kreson","Lam Veritab","Kowosol","Malanga","Knorr","Ble","Kokoye","Guava","Mori","Kalalou","Farin Mayi", "Grenadia", "Pistach", "Pwa Kongo", "Yam", "Bannann", "Piman", "Malanga", "Manyok", "Chadek"]
+  },
+  {
+    "type": "inPerson",
+    "name": "Shaws",
+    "city": "",
+    "state": "",
+    "address": "",
+    "products": ["Malanga","Piman","Knorr","Ble","Pen Mayi","Kalalou","Farin Mayi", "Grenadia", "Pistach", "Pwa Kongo", "Yam","Piman", "Malanga", "Manyok", "Chadek", "Bannann"]
+  },
+  {
+    "type": "inPerson",
+    "name": "Tropical Foods",
+    "city": "Roxbury",
+    "state": "MA",
+    "address": "450 Melnea Cass Blvd, Roxbury, MA 02119",
+    "products": ["Knorr","Maggi", "Farin Mayi", "Pwa Kongo", "Farin Diri", "Cola Lacaye", "Kenep"]
+  },
+  {
+    "type": "inPerson",
+    "name": "America's Food Basket",
+    "city": "",
+    "state": "",
+    "address": "926 Cummins Hwy, Mattapan, MA 02126",
+    "products": ["Kenep", "Yam", "Guarina"]
+  },
+  {
+    "type": "inPerson",
+    "name": "Le Foyer Bakery",
+    "city": "",
+    "state": "",
+    "address": "132 Babson St, Boston, MA 02126",
+    "products": ["Cola Lacaye"]
+  },
+  {
+    "type": "inPerson",
+    "name": "Au Beurre Chaud Bakery",
+    "city": "",
+    "state": "",
+    "address": "720 River St, Boston, MA 02136",
+    "products": ["Pomket","Tablet Pistach", "Cola Couronne", "Bonbon Siwo", "Bonbon Amidon", "Pen Patat", "Cola Lacaye"]
+  },
+  {
+    "type": "inPerson",
+    "name": "La Baguette Prime Bakery",
+    "city": "",
+    "state": "",
+    "address": "637 River St, Boston, MA 02136",
+    "products": ["Akasan","Kokonet","Bonbon Amidon", "Bonbon Siwo", "Tablet Nwa", "Pen Patat", "Cola Lacaye", "Cola Couronne"]
+  },
+  {
+    "type": "inPerson",
+    "name": "Star Market",
+    "city": "",
+    "state": "",
+    "address": "",
+    "products": ["Kreson","Malanga","Tabasco","Militon","Yam","Kalalou","Aranso","Farin Manyok", "Grenadia","Chadek", "Farin Diri"]
+  },
+  {
+    "type": "inPerson",
+    "name": "Walmart",
+    "city": "",
+    "state": "",
+    "address": "",
+    "products": ["Pen Mayi", "Knorr"]
+  },
+  {
+    "type": "inPerson",
+    "name": "Wegmans",
+    "city": "",
+    "state": "",
+    "address": "",
+    "products": ["Melis","Tabasco","Knorr","Ble","Farin Manyok","Pwa Kongo","Tamaren","Militon","Grenadia", "Bannann", "Kokoye"]
+  },
+  {
+    "type": "inPerson",
+    "name": "Pine River Fish Market",
+    "city": "",
+    "state": "",
+    "address": "400 American Legion Hwy, Revere, MA 02151",
+    "products": ["Lambi"]
+  },
+  {
+    "type": "inPerson",
+    "name": "Whole Foods",
+    "city": "",
+    "state": "",
+    "address": "",
+    "products": ["Melis", "Chadek"]
+  },
+  {
+    "type": "inPerson",
+    "name": "BellRock Market",
+    "city": "",
+    "state": "",
+    "address": "114 Main St, Malden, MA 02148",
+    "products": ["Kassav", "Papita", "Shella"]
+  },
+  {
+    "type": "inPerson",
+    "name": "Lighthouse Wine & Spirits",
+    "city": "",
+    "state": "",
+    "address": "144-9 Brimbal Avenue Beverly, MA 01915",
+    "products": ["Rhum Barbancourt"]
+  },
+  {
+    "type": "inPerson",
+    "name": "Total Wine & More",
+    "city": "",
+    "state": "",
+    "address": "11 Mystic View Rd, Everett, MA 02149",
+    "products": ["Rhum Barbancourt"]
+  },
+  {
+    "type": "inPerson",
+    "name": "Cambridge Wine & Spirits",
+    "city": "",
+    "state": "",
+    "address": "202 Alewife Brook Pkwy, Cambridge, MA 02138",
+    "products": ["Rhum Barbancourt"]
+  },
+  {
+    "type": "inPerson",
+    "name": "The Sevens Ale House",
+    "city": "",
+    "state": "",
+    "address": "77 Charles St, Boston, MA 02114",
+    "products": ["Guinness"]
+  },
+  {
+    "type": "inPerson",
+    "name": "Hennessy's Bar",
+    "city": "",
+    "state": "",
+    "address": "25 Union St, Boston, MA 02108",
+    "products": ["Guinness"]
+  }
+
+  
+  
+]
+
+
+
+
